@@ -1,0 +1,16 @@
+{
+  "name": "user_registration",
+  "version": "1.0.0",
+  "description": "Simple Registration page using NodeJS,express and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Saikat Rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33"
+  }
+}
